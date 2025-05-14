@@ -3,7 +3,7 @@ I'm currently a Software Engineering student at Bahir Dar Institute of Technolog
 
 I enjoy learning new things, solving challenging problems, and exploring full-stack development.
 
-🌱 I'm always learning and focused on improving my skills as a developer.  
+I'm always learning and focused on improving my skills as a developer.  
 My goal is to become a strong software engineer and build meaningful solutions that create real impact.
 
 Let's connect and collaborate!
